@@ -1,0 +1,7 @@
+[Unit]
+Description=Send notifications when battery is low
+
+[Service]
+Type=exec
+ExecStart=/usr/local/bin/notify-batt.sh
+
