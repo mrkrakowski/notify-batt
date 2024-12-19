@@ -1,6 +1,6 @@
 # notify-batt - low battery notification manager
 
-notify-batt is a project I began on Lubuntu. I was out of ideas for projects in
+notify-batt is a project I began on Lubuntu. I was out of ideas for projects
 at the time, so I decided to create a notification manager that would trigger a
 notification once the battery goes below a certain threshold.
 Since then, I've switched to Ubuntu, which has a built-in low-battery
