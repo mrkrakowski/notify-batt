@@ -4,7 +4,8 @@ notify-batt is a project I began on Lubuntu. I was out of ideas for projects
 at the time, so I decided to create a notification manager that would trigger a
 notification once the battery goes below a certain threshold.
 Since then, I've switched to Ubuntu, which has a built-in low-battery
-notification, so I've decided to push what I have here as a
+notification, so I've decided to push what I have here in the hopes that someone
+finds it useful.
 
 I might finish this project in the future, but probably not.
 I definitely will look at any and all pull requests, however.
